@@ -1,5 +1,4 @@
 # Predictive Modeling and Investment Strategy for Loan Defaults
-### By Nima Shafikhani, Asad Shoaib, Hsiu-Yuan Yang, Karshni Mitra
 
 This is a comprehensive end-to-end Machine Learning project where we leveraged predictive analytics models (Naïve Bayes, Lasso, Ridge, Random Forest, Decision Tree, Neural Network) to assess loan default likelihood, optimize model selection, implement ML-based investment strategies and evaluate returns using historical loan data.
 
