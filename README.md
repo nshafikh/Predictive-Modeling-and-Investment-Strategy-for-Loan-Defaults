@@ -3,7 +3,7 @@
 This is a comprehensive end-to-end Machine Learning project where we leveraged predictive analytics models (Naïve Bayes, Lasso, Ridge, Random Forest, Decision Tree, Neural Network) to assess loan default likelihood, optimize model selection, implement ML-based investment strategies and evaluate returns using historical loan data.
 
 ## Data
-The LendingClub loan data is from 2007-2018 and sourced from Kaggle.
+The LendingClub loan data is from 2007-2018, sourced from Kaggle.
 
 ## Investment Strategies
 a. Random (Rand): randomly picking loans to invest in
